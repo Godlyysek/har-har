@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: rgb(41, 41, 41);
+}
+
+div {
+    text-align: center;
+}
+
+#foobar {
+    display: none
+}
